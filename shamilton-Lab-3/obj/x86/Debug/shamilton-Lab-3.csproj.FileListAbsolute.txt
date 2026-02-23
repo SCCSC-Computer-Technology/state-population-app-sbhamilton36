@@ -1,0 +1,12 @@
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\bin\x86\Debug\UnitedStates1.accdb
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\bin\x86\Debug\shamilton-Lab-3.exe.config
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\bin\x86\Debug\shamilton-Lab-3.exe
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\bin\x86\Debug\shamilton-Lab-3.pdb
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton-Lab-3.csproj.AssemblyReference.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton_Lab_3.Details.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton_Lab_3.Form1.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton_Lab_3.Properties.Resources.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton-Lab-3.csproj.GenerateResource.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton-Lab-3.csproj.CoreCompileInputs.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton-Lab-3.exe
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-3\shamilton-Lab-3\obj\x86\Debug\shamilton-Lab-3.pdb
