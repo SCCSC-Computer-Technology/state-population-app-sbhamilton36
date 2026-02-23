@@ -1,0 +1,6 @@
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\bin\Debug\shamilton-Lab-4-ClassLibrary.dll
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\bin\Debug\shamilton-Lab-4-ClassLibrary.pdb
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\obj\Debug\shamilton-Lab-4-ClassLibrary.csproj.AssemblyReference.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\obj\Debug\shamilton-Lab-4-ClassLibrary.csproj.CoreCompileInputs.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\obj\Debug\shamilton-Lab-4-ClassLibrary.dll
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Labs\shamilton-Lab-4\shamilton-Lab-3\shamilton-Lab-3\shamilton-Lab-4-ClassLibrary\obj\Debug\shamilton-Lab-4-ClassLibrary.pdb

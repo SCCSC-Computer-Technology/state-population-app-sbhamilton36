@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="shamilton-Lab-3.csproj" Id="34244e2e-67cb-4294-9e8f-14985e95e425">
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="shamilton-Lab-4-ClassLibrary/shamilton-Lab-4-ClassLibrary.csproj" Id="6c6190da-5764-4ff4-86ef-f7b13424fcf8" />
+</Solution>
